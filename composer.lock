@@ -7,11 +7,11 @@
     "content-hash": "2ddeef68fd20ca09b7d796e54c66d70e",
     "packages": [
         {
-            "name": "apigen/apigen",
+            "name": "tocuarzo/apigen",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/ApiGen/ApiGen.git",
+                "url": "https://github.com/tocuarzo/api-generator.git",
                 "reference": "85290e8086f2f40e4d560de09ffd115466379dc2"
             },
             "dist": {
